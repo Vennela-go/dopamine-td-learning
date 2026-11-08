@@ -1,0 +1,16 @@
+{
+  "trials": 100,
+  "alpha": 0.15,
+  "gamma": 0.95,
+  "final_cue_value": 0.9024863578826554,
+  "final_reward_delivery_td_error": 1.0291380736493494e-07,
+  "final_cue_td_error": 0.8573600405333953,
+  "final_td_rmse": 0.09751364211734459,
+  "baseline_rmse": 1.0,
+  "omission_td_errors": [
+    0.8573620399885226,
+    1.2169973922060429e-05,
+    1.4665217556997234e-06,
+    -0.9999999125232637
+  ]
+}
